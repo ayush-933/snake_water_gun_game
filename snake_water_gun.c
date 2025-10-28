@@ -20,7 +20,7 @@ if((player==0&&computer==1)||(player==1&&computer==2)||(player==2&&computer==0))
     printf(" you lost!better luck next time.\n");
 
 }
-printf("%d",computer);
+
  
 return 0;
 }
